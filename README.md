@@ -30,7 +30,7 @@ Currently, I am working on robust segmentation pipelines using **nnU-Net** and *
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yeongjin-lee&show_icons=true&theme=minimal&hide_border=true" alt="YeongJin's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yeongjin-lee&show_icons=true&theme=minimal&hide_border=true&count_private=true" alt="My Stats" />
 </p>
 
 <div align="center">
