@@ -27,7 +27,7 @@ Currently, I am working on robust segmentation pipelines using **nnU-Net** and *
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
-
+![My Stats](https://github-readme-stats.vercel.app/api?username=yeongjin-lee&show_icons=true&theme=minimal&hide_border=true&count_private=true)
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yeongjin-lee&show_icons=true&theme=minimal&hide_border=true&count_private=true" alt="My Stats" />
