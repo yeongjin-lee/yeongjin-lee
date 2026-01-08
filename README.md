@@ -1,4 +1,5 @@
 ### Hi there, I'm YeongJin 👋
+https://github-readme-stats.vercel.app/api?username=yeongjin-lee&show_icons=true&count_private=true
 
 I am an undergraduate researcher at **VCMI Lab**, Seoul Women's University.  
 My research interest lies in **Medical Imaging AI**, specifically focusing on **Foundation Models** and **Zero-Shot Segmentation** in MRE images.
