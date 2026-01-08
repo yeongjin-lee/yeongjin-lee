@@ -28,12 +28,6 @@ Currently, I am working on robust segmentation pipelines using **nnU-Net** and *
 
 ---
 
-### 📈 GitHub Stats
-### 🔥 My Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yeongjin-lee&theme=minimal&hide_border=true)
-### 🏆 Achievements
-[![Trophy](https://github-profile-trophy.vercel.app/?username=yeongjin-lee&theme=flat&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
 <div align="center">
   <a href="mailto:yeongjinlee66@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
