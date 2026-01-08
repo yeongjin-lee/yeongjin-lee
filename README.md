@@ -29,7 +29,6 @@ Currently, I am working on robust segmentation pipelines using **nnU-Net** and *
 ---
 
 ### 📈 GitHub Stats
-' 기호를 지우시면 됩니다. -->
 
 <div align="center">
   <a href="mailto:yeongjinlee66@gmail.com">
