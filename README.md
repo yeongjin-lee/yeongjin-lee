@@ -34,10 +34,10 @@ Currently, I am working on robust segmentation pipelines using **nnU-Net** and *
 </p>
 
 <div align="center">
-  <a href="mailto:본인_이메일@example.com">
+  <a href="mailto:yeongjinlee66@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/본인아이디">
+  <a href="www.linkedin.com/in/yeongjin-lee">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
