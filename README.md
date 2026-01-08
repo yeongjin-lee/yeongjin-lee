@@ -29,7 +29,7 @@ Currently, I am working on robust segmentation pipelines using **nnU-Net** and *
 ---
 
 <div align="center">
-  <a href="mailto:yeongjinlee66@example.com">
+  <a href="mailto:yeongjinlee66@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="www.linkedin.com/in/yeongjin-lee">
