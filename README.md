@@ -19,8 +19,8 @@ My current research focuses on **zero-shot bowel segmentation in Magnetic Resona
 ---
 
 ## 🏆 Selected Achievement
-- **KMMS 2025 Fall Conference – Excellence Award**  
-  *Zero-Shot Bowel Segmentation in MRE using Foundation Models*
+- **KMMS 2025 Fall Conference – Excellence Award** *(First Author)*  
+  Zero-Shot Bowel Segmentation in MRE using Foundation Models
 - **DACON MAI (Medical AI) Challenge – Top 8%** (Individual, 38/477)  
   Developed and fine-tuned genomic language model (gLM) embeddings to improve sensitivity to single-nucleotide variants (SNVs), evaluated using cosine-distance metrics.
 
