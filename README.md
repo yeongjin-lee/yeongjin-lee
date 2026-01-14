@@ -9,10 +9,10 @@ My current research focuses on **zero-shot bowel segmentation** in **Magnetic Re
 
 ---
 
-## 🔬 Research Interests
+## 🔬 Research Interests  
 - Medical Image Analysis (MRI / CT, 3D segmentation)
-- Foundation Models for Vision (SAM, MedSAM, MRSegmentator)
-- Zero-Shot and Weakly-Supervised Learning in Healthcare
+- Foundation Models for Medical Vision (SAM, MedSAM, MRSegmentator)
+- Zero-Shot and Weakly-Supervised Learning in Medical Imaging
 
 ---
 
