@@ -7,7 +7,6 @@ My current research centers on zero-shot bowel segmentation in MRE, studying how
 📫 **Contact**:  [📧 yeongjinlee66@gmail.com](mailto:yeongjinlee66@gmail.com) |  [💼 LinkedIn](https://www.linkedin.com/in/yeongjin-lee)
 
 ---
-
 ## 🔬 Research Interests
 - **Medical Image Analysis**: MRI/CT, 3D segmentation, multi-modality harmonization
 - **Foundation Models**: Practical application and analysis of SAM, MedSAM, and nnU-Net for clinical tasks
@@ -16,7 +15,6 @@ My current research centers on zero-shot bowel segmentation in MRE, studying how
 - **Optimization**: Empirical analysis of MLE/MAP estimation in low-data regimes
 
 ---
-
 ## 🛠️ Technical Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
@@ -26,7 +24,6 @@ My current research centers on zero-shot bowel segmentation in MRE, studying how
 - **Medical AI Tools**: nnU-Net, MRSegmentator, MONAI, NiBabel, ITK-SNAP
 
 ---
-
 ## 🧪 Current Research & Highlights
 
 ### **Zero-shot Bowel Segmentation on MRE**
@@ -36,7 +33,6 @@ My current research centers on zero-shot bowel segmentation in MRE, studying how
 - **Impact**: Improved segmentation performance (**Dice Score: 69.5 → 81.0**) and applied the pipeline to cohort-level clinical data analysis.
 
 ---
-
 ## 🏆 Honors & Awards
 
 **KMMS 2025 Fall Conference – Excellence Award (First Author)** 🏆  
@@ -55,6 +51,5 @@ My current research centers on zero-shot bowel segmentation in MRE, studying how
 - 🔗 Repository: https://github.com/yeongjin-lee/hult-prize-2025-DEW
 
 ---
-
 ## 📂 Featured Repositories
 *Please check the pinned repositories below for my main research prototypes and experiments.*
