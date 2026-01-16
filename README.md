@@ -1,7 +1,6 @@
 # Hi, I'm Yeongjin Lee 👋
 
 I am an undergraduate researcher at **VCMI Lab, Seoul Women’s University (South Korea)**, working on **medical image segmentation** with foundation models.  
-I am interested in **remote research internship opportunities** starting in **2026**.
 
 My current research focuses on **zero-shot bowel segmentation** in **Magnetic Resonance Enterography (MRE)**.
 
