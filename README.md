@@ -4,8 +4,7 @@ I am an undergraduate researcher at VCMI Lab, Seoul Women’s University, workin
 
 My current research centers on zero-shot bowel segmentation in MRE, studying how pretrained models (e.g., MRSegmentator) behave in practical clinical settings and addressing their limitations through robust preprocessing.
 
-📫 **Contact**:  
-[📧 yeongjinlee66@gmail.com](mailto:yeongjinlee66@gmail.com) |  [💼 LinkedIn](https://www.linkedin.com/in/yeongjin-lee)
+📫 **Contact**:  [📧 yeongjinlee66@gmail.com](mailto:yeongjinlee66@gmail.com) |  [💼 LinkedIn](https://www.linkedin.com/in/yeongjin-lee)
 
 ---
 
