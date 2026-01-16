@@ -1,4 +1,4 @@
-## Hi, I'm Yeongjin (Jin) Lee 👋
+## Hi, I'm Yeongjin Lee 👋
 
 I am an undergraduate researcher at VCMI Lab, Seoul Women’s University, working on medical image segmentation with a focus on foundation models.
 
