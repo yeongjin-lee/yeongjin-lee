@@ -52,6 +52,7 @@ My current research centers on zero-shot bowel segmentation in MRE, studying how
 **Hult Prize OnCampus 2025 – Second Prize** 🏆  
 - Proposed an AI-assisted digital data cleanup platform linking carbon reduction with user behavior.  
 - *(Note: Source code is private due to ongoing competition regulations)*
+- 🔗 Repository: https://github.com/yeongjin-lee/hult-prize-2025-DEW
 
 ---
 
