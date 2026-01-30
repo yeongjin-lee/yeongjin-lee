@@ -53,7 +53,6 @@ My current research centers on zero-shot bowel segmentation in MRE, studying how
 **SWU GURU2 Project Competition – Excellence Award** 🏆  
 (University-level Project Competition)
 - Developed "Bin-Go", a facility-aware running route recommendation system that generates personalized routes by integrating public urban POI data.  
-  🔗 Repository: https://github.com/yeongjin-lee/SWU-GURU2-team2-Bin-Go
 
 ---
 ## 📂 Featured Repositories
