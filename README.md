@@ -45,10 +45,15 @@ My current research centers on zero-shot bowel segmentation in MRE, studying how
 - Developed a two-phase training framework for **genomic language models (gLMs)**.
 - Improved sensitivity to **single-nucleotide variants (SNVs)** using cosine-distance metrics.
 
-**Hult Prize OnCampus 2025 – Second Prize** 🏆  
+**Hult Prize OnCampus 2025 – Best Award** 🏆  
 - Proposed an AI-assisted digital data cleanup platform linking carbon reduction with user behavior.  
-- *(Note: Source code is private due to ongoing competition regulations)*
-- 🔗 Repository: https://github.com/yeongjin-lee/hult-prize-2025-DEW
+- *(Note: Source code is private due to ongoing competition regulations)*  
+  🔗 Repository: https://github.com/yeongjin-lee/hult-prize-2025-DEW
+
+**SWU GURU2 Project Competition – Excellence Award** 🏆  
+(University-level Project Competition)
+- Developed "Bin-Go", a facility-aware running route recommendation system that generates personalized routes by integrating public urban POI data.  
+  🔗 Repository: https://github.com/yeongjin-lee/SWU-GURU2-team2-Bin-Go
 
 ---
 ## 📂 Featured Repositories
