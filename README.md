@@ -28,7 +28,7 @@ My current research centers on zero-shot bowel segmentation in MRE, studying how
 - **Key Problem**: Performance degradation due to anisotropic voxel spacing and protocol variability in Crohn’s disease MRE.
 - **Approach**: Applied **MRSegmentator** in a zero-shot setting with tailored preprocessing, including isotropic resampling and morphological post-processing.
 - **Impact**: Improved segmentation performance (**Dice Score: 69.5 → 81.0**) and applied the pipeline to cohort-level clinical data analysis.
-- 
+
 ---
 ## 🏆 Honors & Awards
 
