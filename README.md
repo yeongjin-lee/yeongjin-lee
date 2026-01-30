@@ -8,12 +8,9 @@ My current research centers on zero-shot bowel segmentation in MRE, studying how
 
 ---
 ## 🔬 Research Interests
-- **Medical Image Analysis**: MRI/CT, 3D segmentation, multi-modality harmonization
-- **Foundation Models**: Practical application and analysis of SAM, MedSAM, and nnU-Net for clinical tasks
-- **Robustness & Generalization**: Handling protocol variability and anisotropic voxel spacing
-- **Model Behavior Analysis**: Understanding model decisions and failure cases in clinical imaging tasks
-- **Optimization**: Empirical analysis of MLE/MAP estimation in low-data regimes
-
+- **Foundation Models & Robustness**: SAM, MedSAM, nnU-Net under protocol variability and anisotropic voxel spacing
+- **Model Behavior Analysis**: Failure cases and decision patterns in clinical imaging
+- 
 ---
 ## 🛠️ Technical Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -31,7 +28,7 @@ My current research centers on zero-shot bowel segmentation in MRE, studying how
 - **Key Problem**: Performance degradation due to anisotropic voxel spacing and protocol variability in Crohn’s disease MRE.
 - **Approach**: Applied **MRSegmentator** in a zero-shot setting with tailored preprocessing, including isotropic resampling and morphological post-processing.
 - **Impact**: Improved segmentation performance (**Dice Score: 69.5 → 81.0**) and applied the pipeline to cohort-level clinical data analysis.
-
+- 
 ---
 ## 🏆 Honors & Awards
 
