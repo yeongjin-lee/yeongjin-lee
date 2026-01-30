@@ -10,7 +10,7 @@ My current research centers on zero-shot bowel segmentation in MRE, studying how
 ## 🔬 Research Interests
 - **Foundation Models & Robustness**: SAM, MedSAM, nnU-Net under protocol variability and anisotropic voxel spacing
 - **Model Behavior Analysis**: Failure cases and decision patterns in clinical imaging
-- 
+
 ---
 ## 🛠️ Technical Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
