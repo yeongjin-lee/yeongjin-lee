@@ -37,7 +37,7 @@ My current research centers on zero-shot bowel segmentation in MRE, studying how
 - Presented research on *"Zero-Shot Bowel Segmentation in MRE using Foundation Models"*.
 - Conducted qualitative and quantitative evaluation of **baseline zero-shot segmentation performance**.
 
-**DACON Medical AI (MAI) Challenge – Top 8% (38 / 477)** 📈  
+**DACON 2025 Medical AI (MAI) Challenge – Top 8% (38 / 477)** 📈  
 *Korea’s largest AI competition platform*  
 - Developed a two-phase training framework for **genomic language models (gLMs)**.
 - Improved sensitivity to **single-nucleotide variants (SNVs)** using cosine-distance metrics.
@@ -47,7 +47,7 @@ My current research centers on zero-shot bowel segmentation in MRE, studying how
 - *(Note: Source code is private due to ongoing competition regulations)*  
   🔗 Repository: https://github.com/yeongjin-lee/hult-prize-2025-DEW
 
-**SWU GURU2 Project Competition – Excellence Award** 🏆  
+**SWU 2026 GURU2 Project Competition – Excellence Award** 🏆  
 (University-level Project Competition)
 - Developed "Bin-Go", a facility-aware running route recommendation system that generates personalized routes by integrating public urban POI data.  
 
