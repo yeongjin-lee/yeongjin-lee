@@ -48,8 +48,9 @@ My current research centers on zero-shot bowel segmentation in MRE, studying how
   🔗 Repository: https://github.com/yeongjin-lee/hult-prize-2025-DEW
 
 **SWU 2026 GURU2 Project Competition – Excellence Award** 🏆  
-(University-level Project Competition)
-- Developed "Bin-Go", a facility-aware running route recommendation system that generates personalized routes by integrating public urban POI data.  
+*University-level Project Competition*
+- Developed **"Bin-Go"**, a facility-aware running route recommendation service using a **heuristic sector-based routing algorithm** to generate personalized round-trip courses from urban POI data.
+- Designed backend routing logic with **adaptive fallback mechanisms** to ensure robustness against **sparse POI distributions**.
 
 ---
 ## 📂 Featured Repositories
