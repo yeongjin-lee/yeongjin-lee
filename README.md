@@ -42,7 +42,7 @@ My current research centers on zero-shot bowel segmentation in MRE, studying how
 - Developed a two-phase training framework for **genomic language models (gLMs)**.
 - Improved sensitivity to **single-nucleotide variants (SNVs)** using cosine-distance metrics.
 
-**Hult Prize OnCampus 2025 – Best Award** 🏆  
+**Hult Prize OnCampus 2025 – Best Award / Advanced to Hult Prize Korea National** 🏆  
 - Proposed an AI-assisted digital data cleanup platform linking carbon reduction with user behavior.  
 - *(Note: Source code is private due to ongoing competition regulations)*  
   🔗 Repository: https://github.com/yeongjin-lee/hult-prize-2025-DEW
