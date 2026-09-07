@@ -1,16 +1,16 @@
 ## Hi, I'm Yeongjin Lee 👋
 
-I am an undergraduate researcher at VCMI Lab, Seoul Women’s University, working on medical image segmentation with a focus on foundation models.
+I am an undergraduate researcher at VCMI Lab, Seoul Women's University, working on medical imaging AI with a focus on the reliability of foundation models and MLLMs.
 
-My current research centers on zero-shot bowel segmentation in MRE, studying how pretrained models (e.g., MRSegmentator) behave in practical clinical settings and addressing their limitations through robust preprocessing.
+My research began with zero-shot bowel segmentation in MRE and has since moved toward verifying model predictions in Crohn's disease detection — using MLLMs to check whether detector candidates are spatially consistent with independently predicted lesion regions. I am currently interested in whether such verification can be grounded in the model's internal representations rather than its outputs alone.
 
-📫 **Contact**:  [📧 yeongjinlee66@gmail.com](mailto:yeongjinlee66@gmail.com) |  [💼 LinkedIn](https://www.linkedin.com/in/yeongjin-lee)
+📫 **Contact**:  [📧 yeongjinlee@swu.ac.kr](mailto:yeongjinlee@swu.ac.kr) |  [💼 LinkedIn](https://www.linkedin.com/in/yeongjin-lee)
 
 ---
 ## 🔬 Research Interests
-- **Foundation Models & Robustness**: SAM, MedSAM, nnU-Net under protocol variability and anisotropic voxel spacing
-- **Model Behavior Analysis**: Failure cases and decision patterns in clinical imaging
-
+- **Trustworthy Medical AI**: Verifying whether model predictions are grounded in actual image evidence
+- **Interpretability of MLLMs**: Internal representations, visual grounding, and intervention-based analysis
+- **Foundation Models under Clinical Constraints**: Zero-shot adaptation with limited pixel-level annotation
 ---
 ## 🛠️ Technical Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -18,17 +18,28 @@ My current research centers on zero-shot bowel segmentation in MRE, studying how
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-- **Medical AI Tools**: nnU-Net, MRSegmentator, MONAI, NiBabel, ITK-SNAP
+- **Medical Imaging**: nnU-Net, MRSegmentator, MONAI, NiBabel, SimpleITK, ITK-SNAP
+- **Vision-Language Models**: prompt design and evaluation for zero-shot medical inference (GPT, Qwen-VL)
+---
+## 🧪 Research
+
+### **False Positive Reduction via MLLM-based Verification** *(ongoing)*
+
+*Verifying detector predictions against independently predicted lesion regions.*
+
+- **Key Problem**: Detectors trained for high sensitivity produce many false positives in MRE bowel inflammation detection.
+- **Approach**: A two-stage zero-shot verification pipeline — an MLLM judges inflammation presence and outputs candidate lesion locations, which are then compared against detector boxes for spatial consistency.
+- **Open Question**: Model-predicted locations are themselves outputs. Whether the model actually relied on that region remains unverifiable at the output level — which motivates my interest in internal representations.
 
 ---
-## 🧪 Current Research & Highlights
 
 ### **Zero-shot Bowel Segmentation on MRE**
-*Investigating the robustness of foundation models in practical clinical settings.*
-- **Key Problem**: Performance degradation due to anisotropic voxel spacing and protocol variability in Crohn’s disease MRE.
-- **Approach**: Applied **MRSegmentator** in a zero-shot setting with tailored preprocessing, including isotropic resampling and morphological post-processing.
-- **Impact**: Improved segmentation performance (**Dice Score: 69.5 → 81.0**) and applied the pipeline to cohort-level clinical data analysis.
 
+*Investigating the robustness of foundation models in practical clinical settings.*
+
+- **Key Problem**: Performance degradation due to anisotropic voxel spacing and protocol variability in Crohn's disease MRE.
+- **Approach**: Applied **MRSegmentator** in a zero-shot setting with tailored preprocessing, including isotropic resampling and morphological post-processing.
+- **Impact**: Improved segmentation performance (**Dice: 69.5 → 81.0**) and applied the pipeline to cohort-level clinical data analysis.
 ---
 ## 🏆 Honors & Awards
 
@@ -47,7 +58,7 @@ My current research centers on zero-shot bowel segmentation in MRE, studying how
 - *(Note: Source code is private due to ongoing competition regulations)*  
   🔗 Repository: https://github.com/yeongjin-lee/hult-prize-2025-DEW
 
-**SWU 2026 GURU2 Project Competition – Excellence Award** 🏆  
+**SWU 2025 GURU2 Project Competition – Excellence Award** 🏆  
 *University-level Project Competition*
 - Developed **"Bin-Go"**, a facility-aware running route recommendation service using a **heuristic sector-based routing algorithm** to generate personalized round-trip courses from urban POI data.
 - Designed backend routing logic with **adaptive fallback mechanisms** to ensure robustness against **sparse POI distributions**.
